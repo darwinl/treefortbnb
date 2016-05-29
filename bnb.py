@@ -23,11 +23,14 @@ maxstate = ""
 maxmedian = 0
 
 for state in pricemap:
-    data = np.array(pricemap[state])
-    median[state] = np.median(data)
-    if median[state] > maxmedian:
-        maxmedian_state = state
-        maxmedian = median[state]
+    if len(pricemap[state]) > 0:
+        data = np.array(pricemap[state])
+        median[state] = np.median(data)
+        if median[state] > maxmedian:
+            maxmedian_state = state
+            maxmedian = median[state]
+
+
 
 print maxmedian_state,maxmedian
 

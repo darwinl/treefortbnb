@@ -1,101 +1,101 @@
-city,median
-laguna beach,175
-napa,175
-healdsburg,163
-mill valley,150
-new york,150
-malibu,150
-sunny isles beach,150
-marina del rey,149
-sonoma,147
-sausalito,145
-san rafael,140
-manhattan beach,135
-san francisco,130
-venice,125
-park city,125
-carmel,125
-newport beach,120
-carlsbad,120
-santa monica,120
-palo alto,120
-cambridge,120
-west hollywood,119
-beverly hills,115
-boston,115
-davenport,113
-santa rosa,110
-la jolla,110
-brooklyn,107
-hermosa beach,105
-washington,105
-mountain view,103
-miami beach,100
-new orleans,100
-truckee,100
-naples,100
-los angeles,100
-charleston,99
-hollywood,97
-brookline,95
-chicago,95
-austin,95
-pasadena,95
-savannah,90
-miami,90
-honolulu,90
-indianapolis,90
-scottsdale,90
-long island city,89
-sebastopol,89
-kissimmee,89
-san diego,89
-louisville,89
-berkeley,85
-incline village,85
-oakland,85
-philadelphia,85
-dallas,85
-santa cruz,85
-boulder,84
-taos,82
-new haven,80
-providence,80
-jersey city,80
-las vegas,80
-long beach,80
-seattle,80
-san antonio,80
-atlanta,79
-colorado springs,79
-alexandria,79
-charlotte,79
-queens,79
-salt lake city,75
-portland,75
-fort lauderdale,75
-ann arbor,75
-richmond,75
-nashville,75
-anchorage,75
-pittsburgh,75
-san jose,75
-somerville,70
-denver,70
-glendale,70
-arlington,70
-silver spring,70
-minneapolis,70
-madison,69
-tampa,69
-eugene,65
-baltimore,65
-tucson,65
-phoenix,65
-raleigh,64
-houston,60
-cincinnati,60
-paris,56
-bronx,55
-sacramento,55
-orlando,50
+city,units,median
+napa,406,175
+laguna beach,173,175
+healdsburg,102,163
+new york,64177,150
+sunny isles beach,463,150
+mill valley,390,150
+malibu,339,150
+marina del rey,492,149
+sonoma,1141,147
+sausalito,423,145
+san rafael,316,140
+san francisco,30842,130
+venice,1488,125
+park city,481,125
+carmel,360,125
+cambridge,2684,120
+santa monica,2501,120
+palo alto,527,120
+newport beach,322,120
+carlsbad,86,120
+west hollywood,1355,119
+boston,5281,115
+beverly hills,378,115
+davenport,364,113
+santa rosa,976,110
+la jolla,104,110
+brooklyn,33154,107
+washington,9163,105
+hermosa beach,135,105
+mountain view,414,103
+los angeles,21723,100
+miami beach,7126,100
+new orleans,5851,100
+truckee,325,100
+charleston,962,99
+hollywood,587,97
+chicago,11248,95
+austin,10575,95
+brookline,314,95
+pasadena,287,95
+miami,2774,90
+honolulu,2752,90
+savannah,1575,90
+indianapolis,459,90
+scottsdale,297,90
+san diego,5649,89
+kissimmee,869,89
+long island city,821,89
+louisville,570,89
+sebastopol,443,89
+philadelphia,4882,85
+oakland,2716,85
+berkeley,2161,85
+santa cruz,1499,85
+dallas,696,85
+incline village,163,85
+boulder,1614,84
+taos,247,82
+seattle,9772,80
+las vegas,1562,80
+jersey city,1025,80
+long beach,645,80
+providence,625,80
+san antonio,609,80
+new haven,292,80
+queens,3594,79
+atlanta,2098,79
+charlotte,657,79
+alexandria,563,79
+colorado springs,101,79
+portland,9384,75
+nashville,2590,75
+pittsburgh,960,75
+fort lauderdale,781,75
+salt lake city,716,75
+san jose,584,75
+richmond,503,75
+ann arbor,359,75
+anchorage,114,75
+denver,2822,70
+somerville,1496,70
+arlington,1233,70
+minneapolis,876,70
+silver spring,505,70
+glendale,154,70
+madison,453,69
+tampa,335,69
+baltimore,1068,65
+tucson,955,65
+phoenix,842,65
+eugene,601,65
+raleigh,252,64
+houston,817,60
+cincinnati,260,60
+paris,180,56
+bronx,1081,55
+sacramento,324,55
+orlando,766,50
+durham,380,50
+albuquerque,724,45

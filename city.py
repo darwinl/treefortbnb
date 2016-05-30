@@ -3,7 +3,7 @@ import csv
 
 pricemap = {}
 
-with open("in.csv", "r") as prices:
+with open("puzzle.csv", "r") as prices:
     reader = csv.reader(prices)
     next(reader, None) # skip the headers
     for priceline in reader:
@@ -23,7 +23,7 @@ median = {}
 
 with open("out.csv","w") as csvfile:
 
-    fieldnames = ['city', 'median']
+    fieldnames = ['city', 'units', 'median']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
 
@@ -31,7 +31,7 @@ with open("out.csv","w") as csvfile:
         if len(pricemap[city]) > 0:
             data = np.array(pricemap[city])
             median[city] = np.median(data)
-            writer.writerow({'city': city, 'median' : median[city]})
+            writer.writerow({'city': city, 'units' : len(pricemap[city]), 'median' : median[city]})
 
 
 
